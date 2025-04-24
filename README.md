@@ -1,4 +1,4 @@
-# Kanban-Project
+# Telecom-churn-project
 
 Data Analysis Portfolio Project: Customer Churn Prediction for a Telecom Company
 Problem Statement:
